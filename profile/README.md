@@ -9,6 +9,6 @@ With Huguitis Nodes, you can enjoy reliable and efficient hosting solutions that
 - [Status Page](https://status.huguitisnodes.host)
 
 # Support
-- [Discord Server]([https://discord.gg/freebothosting](https://discord.gg/huguitis-nodes1free-hosting-926816871989252157))
+- [Discord Server]([https://discord.gg/freebothosting](https://discord.gg/huguitis-nodes1free-hosting-926816871989252157)
 - mail@huguitisnodes.host
 
